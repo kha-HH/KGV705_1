@@ -1,9 +1,9 @@
-const CACHE_NAME = 'kgv705-v3';
+const CACHE_NAME = 'kgv705-v4';
 const ASSETS_TO_CACHE = [
-  '/KGV705/',
-  '/KGV705/index.html',
-  '/KGV705/manifest.json',
-  '/KGV705/icon.png'
+  '/KGV705_01/',
+  '/KGV705_01/index.html',
+  '/KGV705_01/manifest.json',
+  '/KGV705_01/icon.png'
   // ggf. weitere Assets: CSS, JS etc.
 ];
 
